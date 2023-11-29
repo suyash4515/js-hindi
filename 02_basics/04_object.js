@@ -91,7 +91,6 @@ console.log(instructor);
 
 
 [
-
     {},
     {},
     {}
